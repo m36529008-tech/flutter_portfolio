@@ -1,16 +1,14 @@
-# flutter_portfolio
+# Flutter Portfolio
 
-A new Flutter project.
+Personal Flutter Web portfolio built with Flutter and deployed using GitHub Pages.
 
-## Getting Started
+## Features
+- Flutter Web
+- Dark / Light mode
+- Project screenshots
+- GitHub links
+- Auto-deploy using GitHub Actions
 
-This project is a starting point for a Flutter application.
+## Live Demo
+https://m36529008-tech.github.io/flutter_portfolio/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
