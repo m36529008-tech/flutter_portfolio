@@ -1,0 +1,15 @@
+name: flutter_portfolio
+description: Mahidhar Reddy | Junior Flutter Developer Portfolio
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
